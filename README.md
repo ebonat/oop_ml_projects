@@ -1,2 +1,2 @@
-# oop_ml_projects
-oop implementation for machine learing projects
+# Simple OOP Design for Machine Learning Projects
+The 
